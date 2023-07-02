@@ -1,11 +1,8 @@
-# Getting started with Angular with Stackblitz
-
-[Getting started with angular](https://angular.io/start)
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-apjpq1)
-
 # Angular StackBlitz Intro 🚀
 
 Welcome to the Angular StackBlitz Intro repository! This documentation provides an overview of the project, its purpose, installation instructions, and other relevant information. Let's get started!
+
+Disclaimer intro provided by [Getting started with angular](https://angular.io/start)
 
 ## Table of Contents 📚
 
@@ -22,7 +19,7 @@ The Angular StackBlitz Intro project is a starter template that introduces you t
 
 ## Demo 🎥
 
-To see a live demo of this project, visit the [StackBlitz demo page](https://stackblitz.com/github/GeorgePanaretos/angular-stackblitz-intro).
+To see a live demo of this project, visit the [StackBlitz demo page](https://stackblitz.com/edit/angular-apjpq1).
 
 ## Installation 💻
 
